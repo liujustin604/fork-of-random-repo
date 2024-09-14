@@ -7,9 +7,18 @@ CRSH2TTY is a universal unenrollment method found by [@kelpseastem](https://gith
 original discovery & testing & writing docs - [@kelpseastem](https://github.com/kelpseastem)\
 \
 idea for & founder of kuromuiroha - [@Entrpix](https://github.com/entrpix)
+\
+pre-release testing - [@shortie.](https://github.com/snappyshortpie)
+\
+docs update & testing - [@Kilo](https://github.com/kkilobyte)
 # Original kajig
 ## CRSH2TTY - Universal unenrollment (tested v31-v128) (does not require USB)
 CRSH2TTY is a universal unenrollment method, created by [@kelpseastem](https://github.com/kelpseastem) and [@Entrpix](https://github.com/entrpix).
+## Requirements
+- chromebook
+- it must not be locked
+- ability to count
+- timer
 ##  How do I do it?
 1. Powerwash (press `ctrl + alt + shift + r` on the login screen)
 2. Proceed through setup as normal
