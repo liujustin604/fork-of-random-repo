@@ -8,7 +8,7 @@ chromeOS is kinda held together by birch wood & rusty nails. It's safe to assume
 This theory still doesn't explain the 2-second wait.
 
 3. Enrollment data corruption\
-You *must* wait 2 seconds each time, or it won't work. This might mean that it tries to get some data, but mismatches two sets of data effectively making it corrupted. Then, when it tries to enroll, it sees this bad data already here, and just... decides gives up. This explains the 2-second wait, but not how you have to leave it for at least 15 hours. \
+You *must* wait 2 seconds each time, or it won't work. This might mean that it tries to get some data, but mismatches two sets of data effectively making it corrupted. Then, when it tries to enroll, it sees this bad data already here, and just... decides gives up. This explains the 2-second wait, but not how you have to leave it for at least 15 hours. 
 
 The below image, ([v127nissa.png](/Docs/Media/v127nissa.png)) shows a background with a blue hue. The default ChromeOS v127 palatte colors are supposed to have a orange hue, not blue. The blue background is the default color that my district uses for it's login screen, which supports this theory, as it means some of the enrollment info persisted.
 <p align="center"><img src="/Docs/Media/v127nissa.png" width="400" alt="v127nissa.png"/></p>
